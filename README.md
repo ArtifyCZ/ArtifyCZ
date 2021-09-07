@@ -33,31 +33,31 @@
 </h3>
 <ul>
     <li>
-        C# (<a href="https://github.com/dotnet/aspnetcore">Asp.Net Core on .Net 5.0</a>)
+        C# (<a href="https://github.com/dotnet/aspnetcore">Asp.Net Core on .Net 5.0</a>)<br />
         I like the language and the platform.
     </li>
     <li>
-        Java (Plugins for Spigot)
+        Java (Plugins for Spigot)<br />
         The language is good, but I don't like the platform (the Java platform).
     </li>
     <li>
-        Kotlin (Plugins for Spigot)
+        Kotlin (Plugins for Spigot)<br />
         The language is very great, but I don't like the platform (as in Java).
     </li>
     <li>
-        Javascript (Vanilla, <a href="https://jquery.com/">JQuery</a> and <a href="https://reactjs.org/">React</a>)
+        Javascript (Vanilla, <a href="https://jquery.com/">JQuery</a> and <a href="https://reactjs.org/">React</a>)<br />
         The language is the purest evil.
     </li>
     <li>
-        Typescript (<a href="https://reactjs.org/">React</a>)
+        Typescript (<a href="https://reactjs.org/">React</a>)<br />
         The language is good but the language to where it's translating...
     </li>
     <li>
-        PHP (Vanilla, with own framework, own combinated framework with some libraries and the <a href="https://nette.org/">Nette</a> framework)
+        PHP (Vanilla, with own framework, own combinated framework with some libraries and the <a href="https://nette.org/">Nette</a> framework)<br />
         The language is getting better, but I don't like the performance and as you can't have cross-request state.
     </li>
     <li>
-        Python (Vanilla and vanilla with some libraries)
+        Python (Vanilla and vanilla with some libraries)<br />
         I have used it for simple scripts only.
     </li>
 </ul>
