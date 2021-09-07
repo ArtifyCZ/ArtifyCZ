@@ -2,9 +2,7 @@
     Hello!
 </h1>
 
-<p align='center'>
-    ![visitors](https://visitor-badge.glitch.me/badge?page_id=ArtifyCZ.ArtifyCZ)
-</p>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ArtifyCZ.ArtifyCZ)
 
 <p>
     Hi, my name's Artify, a programmer pony.
@@ -15,7 +13,7 @@
 </h2>
 
 <p>
-    You can contact me on my [Discord](https://discord.com/users/663768372168753152)
+    You can contact me on my <a href="https://discord.com/users/663768372168753152">Discord</a>
 </p>
 
 <h2>
@@ -35,7 +33,7 @@
 </h3>
 <ul>
     <li>
-        C# ([Asp.Net Core on .Net 5.0](https://github.com/dotnet/aspnetcore))
+        C# (<a href="https://github.com/dotnet/aspnetcore">Asp.Net Core on .Net 5.0</a>)
         I like the language and the platform.
     </li>
     <li>
@@ -47,15 +45,15 @@
         The language is very great, but I don't like the platform (as in Java).
     </li>
     <li>
-        Javascript (Vanilla, [JQuery](https://jquery.com/) and [React](https://reactjs.org/))
+        Javascript (Vanilla, <a href="https://jquery.com/">JQuery</a> and <a href="https://reactjs.org/">React</a>)
         The language is the purest evil.
     </li>
     <li>
-        Typescript ([React](https://reactjs.org/))
+        Typescript (<a href="https://reactjs.org/">React</a>)
         The language is good but the language to where it's translating...
     </li>
     <li>
-        PHP (Vanilla, with own framework, own combinated framework with some libraries and the [Nette](https://nette.org/) framework)
+        PHP (Vanilla, with own framework, own combinated framework with some libraries and the <a href="https://nette.org/">Nette</a> framework)
         The language is getting better, but I don't like the performance and as you can't have cross-request state.
     </li>
     <li>
@@ -68,4 +66,4 @@
     Github Stats
 </h2>
 
-<img src="https://metrics.lecoq.io/ArtifyCZ?template=classic&repositories.forks=true&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.details=percentage&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FPrague" />
+<img src="https://metrics.lecoq.io/ArtifyCZ?template=classic&repositories.forks=true&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.details=percentage&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FPrague"></img>
