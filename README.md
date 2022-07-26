@@ -2,8 +2,6 @@
     Hi!
 </h1>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ArtifyCZ.ArtifyCZ)
-
 <p>
     Hi, my name's Artify, a programmer from the Czech Republic 🇨🇿.
 </p>
@@ -14,7 +12,7 @@
 
 <p>
     You can contact me on my <a href="https://discord.com/users/663768372168753152">Discord</a><br />
-    or on Matrix @artifycz:matrix.org<br />.
+    or on Matrix @artifycz:matrix.org.
 </p>
 
 <h2>
