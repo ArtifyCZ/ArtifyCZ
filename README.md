@@ -1,4 +1,7 @@
-# Hi, I'm Richard Tichý
+# Hi, I'm Richard Tichý,
+
+a Computer Science and Software Engineering student at [Smíchov Technical High School](https://www.ssps.cz/),
+self-made software engineer, team leader and system designer from the Czech Republic.
 
 ## Contact
 
