@@ -18,7 +18,7 @@ Parsing is built using library [Pest](https://pest.rs/), which allowed me to def
 Although in many languages the parsing part is quite complicated,
 in [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language))-like dialect I found the parsing quite simple.
 I found more complicated though implementation of the [macros](https://clojure.org/reference/macros).
-I had to understand that in Clojure, the code is *not translated*, but actually executed. Even a definition of
+I had to understand that in Clojure, in fact, the code is *not translated*, but rather executed. Even a definition of
 a function is a macro invocation.
 
 ### [Sportisimo Marks](https://github.com/artifycz/sportisimo-marks)
