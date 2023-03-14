@@ -13,7 +13,7 @@ PostgreSQL and system stuff in the Linux world, as I daily drive Linux, as the m
 
 - [Rusjure](https://github.com/rusjure/rusjure) - compiler of a [Clojure](https://clojure.org/)-like language,
 written in [Rust](https://www.rust-lang.org/)
-- [Sportisimo Marks](https://github.com/ArtifyCZ/sportisimo-marks), as a duplicate of an internal system,
+- [Sportisimo Marks](https://github.com/ArtifyCZ/sportisimo-marks), as a partial duplicate of an internal system,
 written in [PHP](https://www.php.net/) and [Nette](https://nette.org/)
 - web-page of a carpenter, [vavercak.cz](https://vavercak.cz/)
 - [a web implementation](https://github.com/ArtifyCZ/minesweeper) of game Minesweeper,
