@@ -11,8 +11,12 @@ PostgreSQL and system stuff in the Linux world, as I daily drive Linux, as the m
 
 *As an example of my work, I can give you those few ones.*
 
-- [Rusjure](https://github.com/rusjure/rusjure) - compiler of a [Clojure](https://clojure.org/)-like language,
-written in [Rust](https://www.rust-lang.org/)
+### Rusjure
+
+a compiler of a [Clojure](https://clojure.org/)-like language, written in [Rust](https://www.rust-lang.org/)
+
+[![Repository](https://github-readme-stats.vercel.app/api/pin/?username=rusjure&theme=transparent&repo=rusjure)](https://github.com/rusjure/rusjure)
+
 - [Sportisimo Marks](https://github.com/ArtifyCZ/sportisimo-marks), as a partial duplicate of an internal system,
 written in [PHP](https://www.php.net/) and [Nette](https://nette.org/)
 - web-page of a carpenter, [vavercak.cz](https://vavercak.cz/)
