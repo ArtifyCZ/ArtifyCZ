@@ -19,7 +19,10 @@ a compiler of a [Clojure](https://clojure.org/)-like language, written in [Rust]
 
 a partial duplicate of an internal system, written in [PHP](https://www.php.net/) and [Nette](https://nette.org/)
 
-- web-page of a carpenter, [vavercak.cz](https://vavercak.cz/)
+### [vavercak.cz](https://vavercak.cz/)
+
+web-page of a carpenter
+
 - [a web implementation](https://github.com/ArtifyCZ/minesweeper) of game Minesweeper,
 written in [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) with use of
 [Asp.Net Boilerplate (ABP)](https://abp.io/) and
