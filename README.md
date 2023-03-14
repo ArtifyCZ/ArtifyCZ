@@ -1,6 +1,6 @@
 # Hi, I'm Richard Tichý,
 
-Self-made software engineer, team leader and system designer from the Czech Republic.
+a software engineer, a team leader and a system designer from the Czech Republic.
 
 I have been programming stuff already for 8 years, since 2014. During that time I have managed to get the knowledge of
 many programming languages such as C, C#, Rust, Kotlin or Clojure, server technologies such as Redis, MySQL, MariaDB or
