@@ -7,6 +7,21 @@ I have been programming stuff already for 8 years, since 2014. During that time 
 many programming languages such as C, C#, Rust, Kotlin or Clojure, server technologies such as Redis, MySQL, MariaDB or
 PostgreSQL and system stuff in the Linux world, as I daily drive Linux, as the main OS.
 
+## Technologies
+
+### Languages
+
+- Rust
+- Kotlin
+- TypeScript
+- JavaScript
+- Java
+- C#
+- Clojure
+- C
+- C++
+- PHP
+
 ## Contact
 
 - Email - tichy@artify.zone
