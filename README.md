@@ -28,6 +28,8 @@ written in [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) with use of
 written in [PHP](https://www.php.net/) and [Nette](https://nette.org/)
 - a custom CMS built upon a custom MVC framework, both written in [PHP](https://www.php.net/)
 
+---
+
 ## Contact
 
 - Email - tichy@artify.zone
