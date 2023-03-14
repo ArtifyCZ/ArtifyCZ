@@ -12,7 +12,14 @@ server technologies such as Redis, MySQL, MariaDB or PostgreSQL and
 
 ### [Rusjure](https://github.com/rusjure/rusjure)
 
-a compiler of a [Clojure](https://clojure.org/)-like language, written in [Rust](https://www.rust-lang.org/)
+A compiler of a [Clojure](https://clojure.org/)-like language, written in [Rust](https://www.rust-lang.org/).
+Parsing is built using library [Pest](https://pest.rs/), which allowed me to define the syntax using
+[PEG](https://en.wikipedia.org/wiki/Parsing_expression_grammar) format.
+Although in many languages the parsing part is quite complicated,
+in [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language))-like dialect I found the parsing quite simple.
+I found more complicated though implementation of the [macros](https://clojure.org/reference/macros).
+I had to understand that in Clojure, the code is *not translated*, but actually executed. Even a definition of
+a function is a macro invocation.
 
 ### [Sportisimo Marks](https://github.com/artifycz/sportisimo-marks)
 
