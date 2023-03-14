@@ -11,7 +11,7 @@ PostgreSQL and system stuff in the Linux world, as I daily drive Linux, as the m
 
 *As an example of my work, I can give you those few ones.*
 
-[![Rusjure](https://github-readme-stats.vercel.app/api/pin/?username=rusjure&theme=transparent&repo=rusjure)](https://github.com/rusjure/rusjure)
+### [Rusjure](https://github.com/rusjure/rusjure)
 
 a compiler of a [Clojure](https://clojure.org/)-like language, written in [Rust](https://www.rust-lang.org/)
 
