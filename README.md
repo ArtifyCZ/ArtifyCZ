@@ -23,7 +23,16 @@ a function is a macro invocation.
 
 ### [Sportisimo Marks](https://github.com/artifycz/sportisimo-marks)
 
-a partial duplicate of an internal system, written in [PHP](https://www.php.net/) and [Nette](https://nette.org/)
+An information system imitating a part of an internal system of Sportisimo, written in [PHP](https://www.php.net/),
+using the [Nette](https://nette.org/) framework, the [Latte](https://latte.nette.org/) templating system,
+[Naja](https://naja.js.org/) and [Materialize](https://materializecss.com/). It is meant to be used with
+a MySQL database. I also wrote a Dockerfile and a Docker Compose file, so you are able to run it locally
+by yourself in Docker.
+
+Because of code readability, I had to find an object-oriented way to use
+the [Nette Database](https://doc.nette.org/en/database). Because it's not an ORM framework, I had to implement a custom
+class for entities, as I had found the usage of entities the best way. There was also a problem with saving changes
+in entities, because the Nette ActiveRow does not allow to set values by property setting...
 
 ### [vavercak.cz](https://vavercak.cz/)
 
