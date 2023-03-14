@@ -35,7 +35,9 @@ written in [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) with use of
 a Minecraft server hosting page (the shop and internal system),
 written in [PHP](https://www.php.net/) and [Nette](https://nette.org/)
 
-- a custom CMS built upon a custom MVC framework, both written in [PHP](https://www.php.net/)
+### CMS and framework
+
+a custom CMS built upon a custom MVC framework, both written in [PHP](https://www.php.net/)
 
 ---
 
