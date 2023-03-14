@@ -11,14 +11,14 @@ PostgreSQL and system stuff in the Linux world, as I daily drive Linux, as the m
 
 *As an example of my work, I can give you those few ones.*
 
-### Rusjure
+[![Rusjure](https://github-readme-stats.vercel.app/api/pin/?username=rusjure&theme=transparent&repo=rusjure)](https://github.com/rusjure/rusjure)
 
 a compiler of a [Clojure](https://clojure.org/)-like language, written in [Rust](https://www.rust-lang.org/)
 
-[![Repository](https://github-readme-stats.vercel.app/api/pin/?username=rusjure&theme=transparent&repo=rusjure)](https://github.com/rusjure/rusjure)
+[![Sportisimo Marks](https://github-readme-stats.vercel.app/api/pin/?username=artifycz&theme=transparent&repo=sportisimo-marks)](https://github.com/artifycz/sportisimo-marks)
 
-- [Sportisimo Marks](https://github.com/ArtifyCZ/sportisimo-marks), as a partial duplicate of an internal system,
-written in [PHP](https://www.php.net/) and [Nette](https://nette.org/)
+a partial duplicate of an internal system, written in [PHP](https://www.php.net/) and [Nette](https://nette.org/)
+
 - web-page of a carpenter, [vavercak.cz](https://vavercak.cz/)
 - [a web implementation](https://github.com/ArtifyCZ/minesweeper) of game Minesweeper,
 written in [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) with use of
