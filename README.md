@@ -30,8 +30,11 @@ written in [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) with use of
 [Asp.Net Boilerplate (ABP)](https://abp.io/) and
 [Blazor Server](https://learn.microsoft.com/en-us/aspnet/core/blazor/hosting-models?view=aspnetcore-7.0)
 
-- a Minecraft server hosting page (the shop and internal system),
+### Mega-Hosting.eu
+
+a Minecraft server hosting page (the shop and internal system),
 written in [PHP](https://www.php.net/) and [Nette](https://nette.org/)
+
 - a custom CMS built upon a custom MVC framework, both written in [PHP](https://www.php.net/)
 
 ---
