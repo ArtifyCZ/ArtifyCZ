@@ -1,6 +1,6 @@
 # Hi, I'm Richard Tichý,
 
-a software engineer, a team leader and a system designer from the Czech Republic.
+a software engineer, a system administrator and a system designer from the Czech Republic.
 
 I have used many programming languages such as C, C#, Rust, Kotlin or Clojure,
 server technologies such as Redis, MySQL, MariaDB or PostgreSQL and
