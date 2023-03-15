@@ -43,7 +43,7 @@ web-page of a carpenter
 A web implementation of game Minesweeper, written in [C#](https://learn.microsoft.com/en-us/dotnet/csharp/),
 using [Asp.Net Boilerplate (ABP)](https://abp.io/). Developed with the domain driven design in mind, it is,
 in my opinion, a well readable code. Although it is playable, it does not contain, for example,
-authorization and score recording.
+authorization and score recording. It was developed with usage of Postgres in mind.
 
 ### Mega-Hosting.eu
 
