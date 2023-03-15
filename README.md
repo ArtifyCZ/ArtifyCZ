@@ -45,7 +45,7 @@ authorization and score recording. It was developed with usage of Postgres in mi
 
 A web implementation of game [Secret Hitler](https://www.secrethitler.com/), with the backend written in
 [Rust](https://www.rust-lang.org/) using [Axum](https://github.com/tokio-rs/axum) framework and
-[Sea-orm](https://www.sea-ql.org/SeaORM/) with connecting to PostgreSQL database. The frontend is written
+[Sea-orm](https://www.sea-ql.org/SeaORM/) with connecting to Postgres database. The frontend is written
 in [Dart](https://dart.dev/) using [Flutter](https://flutter.dev/).
 
 ---
