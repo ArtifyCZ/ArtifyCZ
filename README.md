@@ -40,10 +40,10 @@ web-page of a carpenter
 
 ### [Minesweeper](https://github.com/ArtifyCZ/minesweeper)
 
-a web implementation of game Minesweeper,
-written in [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) with use of
-[Asp.Net Boilerplate (ABP)](https://abp.io/) and
-[Blazor Server](https://learn.microsoft.com/en-us/aspnet/core/blazor/hosting-models?view=aspnetcore-7.0)
+A web implementation of game Minesweeper, written in [C#](https://learn.microsoft.com/en-us/dotnet/csharp/),
+using [Asp.Net Boilerplate (ABP)](https://abp.io/). Developed with the domain driven design in mind, it is,
+in my opinion, a well readable code. Although it is playable, it does not contain, for example,
+authorization and score recording.
 
 ### Mega-Hosting.eu
 
