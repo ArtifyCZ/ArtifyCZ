@@ -34,25 +34,12 @@ the [Nette Database](https://doc.nette.org/en/database). Because it's not an ORM
 class for entities, as I had found the usage of entities the best way. There was also a problem with saving changes
 in entities, because the Nette ActiveRow does not allow to set values by property setting...
 
-### [vavercak.cz](https://vavercak.cz/)
-
-web-page of a carpenter
-
 ### [Minesweeper](https://github.com/ArtifyCZ/minesweeper)
 
 a web implementation of game Minesweeper,
 written in [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) with use of
 [Asp.Net Boilerplate (ABP)](https://abp.io/) and
 [Blazor Server](https://learn.microsoft.com/en-us/aspnet/core/blazor/hosting-models?view=aspnetcore-7.0)
-
-### Mega-Hosting.eu
-
-a Minecraft server hosting page (the shop and internal system),
-written in [PHP](https://www.php.net/) and [Nette](https://nette.org/)
-
-### CMS and framework
-
-a custom CMS built upon a custom MVC framework, both written in [PHP](https://www.php.net/)
 
 ---
 
