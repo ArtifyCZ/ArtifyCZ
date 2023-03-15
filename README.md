@@ -41,6 +41,13 @@ using [Asp.Net Boilerplate (ABP)](https://abp.io/). Developed with the domain dr
 in my opinion, a well readable code. Although it is playable, it does not contain, for example,
 authorization and score recording. It was developed with usage of Postgres in mind.
 
+### [Secret Hitler](https://github.com/artifycz/secrethitler)
+
+A web implementation of game [Secret Hitler](https://www.secrethitler.com/), with the backend written in
+[Rust](https://www.rust-lang.org/) using [Axum](https://github.com/tokio-rs/axum) framework and
+[Sea-orm](https://www.sea-ql.org/SeaORM/) with connecting to PostgreSQL database. The frontend is written
+in [Dart](https://dart.dev/) using [Flutter](https://flutter.dev/).
+
 ---
 
 ## Contact
